@@ -9,6 +9,7 @@ public class Main {
 		System.out.println("Cambio desde master");
 		System.out.println("Cambio desde una rama");
 		/*comentario añadido desde cambio2*/
+		System.out.println("Cambio correcto desde master");
 	}
 
 }
